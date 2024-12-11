@@ -1,0 +1,7 @@
+# Exclude the virtual enviroment
+hbnb_env
+
+# exclude python cache 
+__pycache__/
+*.pyc
+*.pyo
